@@ -1,5 +1,5 @@
-## Hi there 👋
-img src="https://raw.githubusercontent.com/eric-py/eric-py/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/eric-py/eric-py/output/snake.svg" alt="Snake animation" />
 <!--
 **k-a-n-t-o/K-a-n-t-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
